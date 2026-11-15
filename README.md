@@ -53,7 +53,7 @@ Power BI Desktop, Power Query, DAX, Data Modeling, Star Schema, Excel
 ## Project Structure
 - `report/`: Power BI file (`Data_modeling_project.pbix`)
 - `data/`: raw source data (`raw_tables.xlsx`)
-- `images/`: screenshots of the data model and report
+- `images/`: screenshots of the data model
 
 
 ## Author
